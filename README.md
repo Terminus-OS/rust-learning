@@ -1,2 +1,2 @@
 # rust-learning
-My rust jounery
+A collection of Rust projects, experiments, and exercises documenting my journey from beginner to advanced systems programming.
